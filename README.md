@@ -18,9 +18,6 @@ Implementation of Financial forecasting with LSTM/GRU and interactive AWGN commu
 │   └── messages.py              # Part 2 message enumeration
 ├── scripts/
 │   └── generate_report_figures.py
-├── report/
-│   ├── report.tex
-│   └── figures/
 ├── data/                # Cached stock CSVs (auto-downloaded)
 └── results/             # Metrics, plots, checkpoints
 ```
